@@ -1,4 +1,6 @@
-Currently studying various things in Mission Ready 
+Currently going through the Mission Ready developer programme: https://www.missionreadyhq.com/
+
+Currently using technologies: ReactJS/ Express/ Cloud services (Azure/IBM/AWS)...
 
 <!---
 GSirB9108/GSirB9108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
