@@ -2,7 +2,7 @@ Currently going through the Mission Ready developer programme: https://www.missi
 
 technologies I am learning and using atm: ReactJS/ Express/ Cloud services (Azure/IBM/AWS)...
 
-[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gsirb9108/github-readme-stats)
+[![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsirb9108)](https://github.com/gsirb9108/github-readme-stats)
 
 
 <!---
