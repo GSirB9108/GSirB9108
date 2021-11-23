@@ -4,6 +4,9 @@ technologies I am learning and using atm: ReactJS/ Express/ Cloud services (Azur
 
 [![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsirb9108)](https://github.com/gsirb9108/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsirb9108)](https://github.com/gsirb9108/github-readme-stats)
+
+
 
 <!---
 GSirB9108/GSirB9108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
