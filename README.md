@@ -1,6 +1,14 @@
-Currently going through the Mission Ready developer programme: https://www.missionreadyhq.com/
+Hello! 
 
-technologies I am learning and using atm: ReactJS/ Express/ Cloud services (Azure/IBM/AWS)...
+I am a psychology and sociology graduate who decided to transition to software/ web development when it came time to seriously consider and commit to a career path, especially due to how prevalent technology is across just about every industry.
+
+Leveraging my educational background in a primarily non-IT field, I strive to combine my knowledge of other disciplines alongside software development in order to understand how a piece of software relates to and drives other aspects of an organisation, such as consumer psychology and commerce.
+
+Currently as of January 2022, I am taking part in a 10 week micro-internship as part of Mission Ready’s tech career accelerator programme (https://www.missionreadyhq.com/), after having gone through the full stack development and advanced software courses between May and December of 2021. 
+
+In my profile are 3 repositories at the moment, which showcase the completed projects I worked on during the aforementioned studies through Mission Ready as well as my own supplemental work through online self-education.
+
+The technologies I am learning and using at the moment are: React JS, Express/ Node JS and cloud platforms such as IBM/AWS/Azure.
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsirb9108)
 
