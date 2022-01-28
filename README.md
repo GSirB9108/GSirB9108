@@ -8,7 +8,7 @@ Currently as of January 2022, I am taking part in a 10 week micro-internship as 
 
 In my profile are 3 repositories at the moment, which showcase the completed projects I worked on during the aforementioned studies through Mission Ready as well as my own supplemental work through online self-education.
 
-The technologies I am learning and using at the moment are: React JS, Express/ Node JS and cloud platforms such as IBM/AWS/Azure.
+The technologies and programming languages I am learning and using at the moment are: HTML/CSS/JavaScript (React JS, Express/ Node JS), Dart (Flutter), Database platforms SQL (MySQL, PostgreSQL) and MongoDB, as well as cloud platforms and API'S such as IBM/AWS/Azure.
 
 ![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsirb9108)
 
